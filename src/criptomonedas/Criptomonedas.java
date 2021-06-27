@@ -6,6 +6,7 @@ public class Criptomonedas {
         System.out.println("Hola Mundo");
         // esto es un comentario
         // segundo comentario: prueba exitosa con comando git pull
+        // comentario hecho en replit
     }
     
 }
