@@ -22,4 +22,6 @@ public class Persona {
         puduCoin = puduCoin - monto;
         return monto;  
     }
+    
+    // otro metodo retirarDinero
 }
